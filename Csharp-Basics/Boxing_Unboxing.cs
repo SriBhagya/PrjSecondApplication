@@ -20,7 +20,7 @@ namespace Csharp_Basics
 			//refernce value to value type
 			string oilprice = "10.00";
 			//int o = Convert.ToInt32(Console.Read());
-			Console.WriteLine("Reference value to value type:{0}", oilprice);
+			Console.WriteLine("Reference value convertedto value type:{0}", oilprice);
 			Console.ReadLine();
 
 
