@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-2\PrjSecondApplication\Csharp-Basics\obj\Debug\Csharp-Basics.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-2\PrjSecondApplication\Csharp-Basics\obj\Debug\Csharp-Basics.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-2\PrjSecondApplication\Csharp-Basics\bin\Debug\Csharp-Basics.exe.config
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-2\PrjSecondApplication\Csharp-Basics\bin\Debug\Csharp-Basics.exe
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-2\PrjSecondApplication\Csharp-Basics\bin\Debug\Csharp-Basics.pdb
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-2\PrjSecondApplication\Csharp-Basics\obj\Debug\Csharp-Basics.exe
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-2\PrjSecondApplication\Csharp-Basics\obj\Debug\Csharp-Basics.pdb
