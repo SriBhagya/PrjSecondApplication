@@ -18,7 +18,7 @@ namespace Csharp_Basics
 			Console.WriteLine("value type to reference type:{0}", o);
 
 			//refernce value to value type
-			string oilpricetoday= "10.00";
+			string oilprice = "10.00";
 			//int o = Convert.ToInt32(Console.Read());
 			Console.WriteLine("Reference value to value type:{0}", oilprice);
 			Console.ReadLine();
