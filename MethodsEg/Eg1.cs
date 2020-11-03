@@ -34,6 +34,7 @@ namespace MethodsEg
 			Console.WriteLine("Name:{0}", eg1.GetName());
 			Console.WriteLine("Age:{0}", eg1.GetAge());
 			Console.WriteLine("Initail:{0}", eg1.GetInitial());
+			Console.WriteLine("Age method Updated");
 			//eg1.Welcome;
 			Console.Read();
 		}
