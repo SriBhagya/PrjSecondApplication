@@ -12,6 +12,7 @@ namespace Csharp_Basics
 		{
 			//value type
 			int petrol = 100;
+			int deisel=85; //added new int value
 			//reference type
 			//boxing converting value type to reference type
 			object o = petrol;
