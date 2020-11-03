@@ -41,6 +41,7 @@ namespace MethodsEg
 			Eg2 eg2 = new Eg2();
 			eg2.DisplayUserDeatils(CName,City,gender,email);
 			Console.WriteLine("sum of marks is:{0}", eg2.Total(mark));
+			Console.WriteLine("Exit Msg added");
 			Console.ReadLine();
 
 
