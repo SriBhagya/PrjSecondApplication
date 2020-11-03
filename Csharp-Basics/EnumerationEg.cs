@@ -8,7 +8,7 @@ namespace Csharp_Basics
 {
 	enum Feedback
 	{
-		poor, fair, good, excellent
+		poor=12, fair, good, excellent
 	}
 
 	class EnumerationEg
